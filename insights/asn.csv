@@ -1,0 +1,357 @@
+,asn,requests
+0,DIGITALOCEAN-ASN,370
+1,MICROSOFT-CORP-MSN-AS-BLOCK,212
+2,AMAZON-02,112
+3,AMAZON-AES,92
+4,PONYNET,73
+5,Chinanet,66
+6,CHINA UNICOM China169 Backbone,60
+7,"Linode, LLC",59
+8,GOOGLE,58
+9,CENSYS-ARIN-01,50
+10,Turk Telekom,41
+11,COGENT-174,37
+12,GOOGLE-CLOUD-PLATFORM,37
+13,AS-COLOCROSSING,35
+14,OVH SAS,33
+15,Delis LLC,31
+16,"Alibaba US Technology Co., Ltd.",28
+17,HURRICANE,28
+18,SOFTLAYER,24
+19,AS-SERVERION,24
+20,Contabo GmbH,22
+21,CENSYS-ARIN-03,19
+22,Intem LLC,19
+23,AS62904,19
+24,Alpha Strike Labs GmbH,18
+25,ZEN-ECN,18
+26,OOO Network of data-centers Selectel,18
+27,CNSERVERS,16
+28,China Unicom Guangzhou network,15
+29,Korea Telecom,14
+30,MAJESTIC-HOSTING-01,12
+31,Telecom Argentina S.A.,12
+32,ORACLE-BMC-31898,12
+33,CENSYS-ARIN-02,12
+34,Data Communication Business Group,11
+35,LIMESTONENETWORKS,11
+36,IP Volume inc,11
+37,"Sistemas Informaticos, S.A.",11
+38,Private Layer INC,10
+39,China Unicom IP network China169 Guangdong province,10
+40,M247 Ltd,10
+41,Netplus Broadband Services Private Limited,10
+42,China Telecom Group,9
+43,Ningxia West Cloud Data Technology Co.Ltd.,9
+44,"Hangzhou Alibaba Advertising Co.,Ltd.",9
+45,National Internet Backbone,9
+46,Pptechnology Limited,8
+47,RootLayer Web Services Ltd.,8
+48,Wind Tre S.p.A.,8
+49,Web Hosted Group Ltd,8
+50,"China Mobile Communications Group Co., Ltd.",8
+51,NhanHoa Software company,8
+52,UCLOUD INFORMATION TECHNOLOGY HK LIMITED,7
+53,MAXKO j.d.o.o.,7
+54,Eonix Corporation,7
+55,AgotoZ HK Limited,7
+56,ASN-QUADRANET-GLOBAL,7
+57,"Tencent Building, Kejizhongyi Avenue",7
+58,,6
+59,Online S.a.s.,6
+60,RETHEMHOSTING,6
+61,Bach Kim Network solutions Join stock company,6
+62,Rostelecom,6
+63,ISPIXP IN CAMBODIA WITH THE BEST VERVICE IN THERE.,6
+64,Datacamp Limited,6
+65,BGPNET Global ASN,6
+66,Des Capital B.V.,6
+67,Telecom Italia,6
+68,Chang Way Technologies Co. Limited,5
+69,Cable ISP in India,5
+70,AS40676,5
+71,24SHELLS,5
+72,IS-AS-1,5
+73,AS-CHOOPA,5
+74,VDI-NETWORK,5
+75,COMCAST-7922,5
+76,Hyonix LLC,5
+77,Vodafone Hungary Ltd.,5
+78,SFR SA,5
+79,Host Europe GmbH,5
+80,MT-MPLS,5
+81,Unmanaged Ltd,5
+82,EMERALD-ONION,5
+83,SINGLEHOP-LLC,4
+84,VIETNAM POSTS AND TELECOMMUNICATIONS GROUP,4
+85,Shenzhen Tencent Computer Systems Company Limited,4
+86,DIGI Tavkozlesi es Szolgaltato Kft.,4
+87,SkyLink Data Center BV,4
+88,Sun Network Hong Kong Limited - HongKong Backbone,4
+89,IONOS SE,4
+90,LUMASERV Systems,4
+91,ServeTheWorld AS,4
+92,Virtual Systems LLC,4
+93,CHARTER-20115,4
+94,sprint S.A.,4
+95,Serverius Holding B.V.,4
+96,Vodafone Italia S.p.A.,4
+97,PEENQ.NL,4
+98,NForce Entertainment B.V.,4
+99,China Mobile communications corporation,4
+100,CT-HangZhou-IDC,4
+101,Hostglobal.plus Ltd,4
+102,VTR BANDA ANCHA S.A.,4
+103,Cia Triad Security LLC,4
+104,National Telecommunication Corporation HQ,3
+105,Vodafone Net Iletisim Hizmetleri Anonim Sirketi,3
+106,"Beijing Tiantexin Tech. Co., Ltd.",3
+107,Orange,3
+108,SK Broadband Co Ltd,3
+109,UNREAL-SERVERS,3
+110,Hetzner Online GmbH,3
+111,Free SAS,3
+112,QUINTEX,3
+113,Telefonica De Espana,3
+114,MTS PJSC,3
+115,Alexander M. Belov,3
+116,UUNET,3
+117,DEDIPATH-LLC,3
+118,CARINET,3
+119,MTN NIGERIA Communication limited,3
+120,CHINANET Guangdong province network,3
+121,Hydra Communications Ltd,3
+122,STEADFAST,3
+123,SmarTone Mobile Communications Ltd,2
+124,HKT Limited,2
+125,PEGTECHINC,2
+126,CLOUD-SOUTH,2
+127,WII,2
+128,Techtel LMDS Comunicaciones Interactivas S.A.,2
+129,Cablenet Communication Systems plc,2
+130,LeaseWeb Netherlands B.V.,2
+131,Server Hosting Pty Ltd,2
+132,EPM Telecomunicaciones S.A. E.S.P.,2
+133,Magyar Telekom plc.,2
+134,LEASEWEB-USA-DAL,2
+135,Netonline Bilisim Sirketi LTD,2
+136,China Unicom Beijing Province Network,2
+137,Partner Communications Ltd.,2
+138,CLOUDFLARENET,2
+139,Telemach UG d.o.o.,2
+140,GSL Networks Pty LTD,2
+141,YISU CLOUD LTD,2
+142,Zemlyaniy Dmitro Leonidovich,2
+143,Kaopu Cloud HK Limited,2
+144,"Blue Diamond Network Co., Ltd.",2
+145,OOO Trivon Networks,2
+146,WebLine LTD,2
+147,"TIME dotCom Berhad No. 14, Jalan Majistret U126 Hicom Glenmarie Industrial Park 40150 Shah Al",2
+148,DATAIDEAS-LLC,2
+149,TurkNet Iletisim Hizmetleri A.S.,2
+150,Inulogic Sarl,2
+151,DFW-DATACENTER,2
+152,CONTABO,2
+153,HostSlick,2
+154,31173 Services AB,2
+155,Amarutu Technology Ltd,2
+156,LEASEWEB-USA-LAX-11,2
+157,Moneroj s.r.o.,2
+158,British Telecommunications PLC,2
+159,GTT Communications Inc.,2
+160,PERFECT-INTERNATIONAL,2
+161,Kar-Tel LLC,2
+162,LEASEWEB-USA-WDC,2
+163,ARLINK S.A.,2
+164,1GSERVERS,2
+165,Irpinia Net-Com SRL,2
+166,Telecentro S.A.,2
+167,ZC38-AS1,2
+168,Sky UK Limited,2
+169,Joint-stock Company World Trade Center Moscow,1
+170,TZULO,1
+171,Tiscali SpA,1
+172,Zwiebelfreunde e.V.,1
+173,LLC Baxet,1
+174,Informatica y Telecomunicaciones S.A.,1
+175,Huashu media&Network Limited,1
+176,Assetel SA de CV,1
+177,SpectraIP B.V.,1
+178,Epinatura LLC,1
+179,Sapinet SAS,1
+180,TWC-11426-CAROLINAS,1
+181,OpenNet ISP Cambodia,1
+182,China Unicom IP network,1
+183,UK Dedicated Servers Limited,1
+184,FiberXpress BV,1
+185,Paralelo 52 TV SA,1
+186,TimeWeb Ltd.,1
+187,Telecom Armenia CJSC,1
+188,Volia,1
+189,MVPS LTD,1
+190,LASNET Uslugi Komputerowe Robert Gulbinowicz,1
+191,FOP Polischyk O.V,1
+192,Intergrid Group Pty Ltd,1
+193,UVT Internet s.r.o.,1
+194,HARCOM1,1
+195,Flytom Networks Ltd,1
+196,Millenicom GmbH,1
+197,Cicomsa S.A.,1
+198,Grape S.A.,1
+199,Contabo Asia Private Limited,1
+200,"Slovak Telecom, a. s.",1
+201,Telenor Norge AS,1
+202,ZIPLY-FIBER-LEGACY-ASN,1
+203,Hero-Telecoms,1
+204,AS-30083-GO-DADDY-COM-LLC,1
+205,ASN-CXA-ALL-CCI-22773-RDC,1
+206,PRO-COMUNICATION s.r.o,1
+207,MONKEYBRAINS,1
+208,Google Asia Pacific Pte. Ltd.,1
+209,System Net Ltd,1
+210,IP Volume LTD,1
+211,Mynet S.r.l.,1
+212,Predlink Rede de Telecomuniccoes Ltda,1
+213,LIWEST Kabelmedien GmbH,1
+214,Microsystem-Kecskemet Kft,1
+215,LIONLINK-NETWORKS,1
+216,SBA-EDGE-JAX,1
+217,Ucom CJSC,1
+218,Fastweb,1
+219,Wavenet Limited,1
+220,Yettel Hungary Ltd.,1
+221,Hathway IP Over Cable Internet,1
+222,"O2 Czech Republic, a.s.",1
+223,Hong Kong Broadband Network Ltd.,1
+224,Mayor Alexey Sergeevich,1
+225,United Networks SE,1
+226,TWC-11351-NORTHEAST,1
+227,Trgovsko radiodifuzno drustvo kablovska televizija ROBI DOOEL Stip,1
+228,NSS S.A.,1
+229,UAB Baltnetos komunikacijos,1
+230,myLoc managed IT AG,1
+231,Turksat Uydu Haberlesme ve Kablo TV Isletme A.S.,1
+232,ORANGE,1
+233,STELLAR-ASSOCIATION,1
+234,Atomo Networks Srl,1
+235,China Unicom Shenzen network,1
+236,AS-26496-GO-DADDY-COM-LLC,1
+237,Convergenze S.p.A.,1
+238,"Zhengzhou Fastidc Technology Co.,Ltd.",1
+239,Telgua,1
+240,Serbia BroadBand-Srpske Kablovske mreze d.o.o.,1
+241,CHINANET SiChuan Telecom Internet Data Center,1
+242,LansofNet LTDA ME,1
+243,"Henan Mobile Communications Co.,Ltd",1
+244,DACEN-2,1
+245,"INKO-Telecom, LLC",1
+246,Cable Televisora Color,1
+247,UAB Bite Lietuva,1
+248,Net Turbo Telecom,1
+249,TerraHost AS,1
+250,Deutsche Telekom AG,1
+251,VNPT Corp,1
+252,Orange Espagne SA,1
+253,Tarr Kft.,1
+254,TOPWAY GLOBAL LIMITED,1
+255,HCN CHUNGBUK CABLE TV SYSTEMS,1
+256,IOFLOOD,1
+257,Skylogic S.p.A.,1
+258,UpCloud Ltd,1
+259,MAROCCONNECT,1
+260,Shinjiru Technology Sdn Bhd,1
+261,TWC-11955-ATLANTA,1
+262,Vodafone Idea Ltd,1
+263,Private entrepreneur Anastasiya Khizha,1
+264,Talido Bilisim Teknolojileri A.S,1
+265,active 1 GmbH,1
+266,EOLO S.p.A.,1
+267,BIGLOBE Inc.,1
+268,"IOT Jiangsu network, Chinatelecom, P.R.China.",1
+269,ViDaNet Cabletelevision Provider Ltd.,1
+270,UPCLOUDUSA,1
+271,Vodafone Telekomunikasyon A.S.,1
+272,Telefonica del Peru S.A.A.,1
+273,KeFF Networks Ltd,1
+274,LISANDRO POZZO ARDIZZI,1
+275,Net Global Srl,1
+276,HYUNDAI COMMUNICATIONS NETWORK,1
+277,Superonline Iletisim Hizmetleri A.S.,1
+278,China Mobile Communicaitons Corporation,1
+279,Celtel Nigeria Limited t.a ZAIN,1
+280,Dinas Komunikasi Informatika Persandian dan Statistik Kabuapten Bueleleng,1
+281,Colombia Movil,1
+282,rain,1
+283,i3D.net B.V,1
+284,Akenes SA,1
+285,NETMINDERS,1
+286,"Chubu Telecommunications Company, Inc.",1
+287,HZ Hosting Ltd,1
+288,NTX Technologies s.r.o.,1
+289,AVAST Software s.r.o.,1
+290,Nowogrod.net Sp. Z O.o.,1
+291,CDSC-AS1,1
+292,CJ2 Hosting B.V.,1
+293,HostRoyale Technologies Pvt Ltd,1
+294,GleSYS AB,1
+295,"Lintas Data Prima, PT",1
+296,SYSTEMINPLACE,1
+297,Petersburg Internet Network ltd.,1
+298,NUCLEARFALLOUT-CHI,1
+299,ARTERIA Networks Corporation,1
+300,NODESDIRECT,1
+301,Clouvider Limited,1
+302,EuroByte LLC,1
+303,JSC RTComm.RU,1
+304,Bulsatcom EAD,1
+305,Talha Bogaz,1
+306,1984 ehf,1
+307,CABLEONE,1
+308,"Domain names registrar REG.RU, Ltd",1
+309,Husam A. H. Hijazi,1
+310,BHN-33363,1
+311,PERFORMIVE,1
+312,City Network International AB,1
+313,PT. Palapa Media Indonesia,1
+314,GO-DADDY-COM-LLC,1
+315,Bahnhof AB,1
+316,UAB Host Baltic,1
+317,MACST-DUB,1
+318,ALGAR TELECOM SA,1
+319,PT Jalawave Cakrawala,1
+320,ABCREDE PROVEDOR DE INTERNET EIRELI,1
+321,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.,1
+322,"TELE MON, S.R.L.",1
+323,HGC Global Communications Limited,1
+324,Hosteur SAS,1
+325,F3 Netze e.V.,1
+326,SMART Comp. a.s.,1
+327,Orion Telecom LLC,1
+328,Dm Auto Eood,1
+329,PODA a.s.,1
+330,Bezeq International,1
+331,Ipxo Limited,1
+332,IP Connect Inc,1
+333,Internet Para Todos - Gobierno de La Rioja,1
+334,RELIABLESITE,1
+335,Telia Norge AS,1
+336,China Unicom Shanghai network,1
+337,Content Delivery Network Ltd,1
+338,AKAMAI-AS,1
+339,ATT-INTERNET4,1
+340,ACCELERIT,1
+341,Taner Temel,1
+342,CLARO S.A.,1
+343,ECL-1,1
+344,SERVER-MANIA,1
+345,BIZNET NETWORKS,1
+346,Hoshin Multimedia Center Inc.,1
+347,RCN-AS,1
+348,Itissalat Al-MAGHRIB,1
+349,Joint Stock Company TransTeleCom,1
+350,LG DACOM Corporation,1
+351,"Taiwan Fixed Network, Telco and Network Service Provider.",1
+352,NEXTARRAY-ASN-01,1
+353,Paulino Perreira Dos Santos Eireli,1
+354,Serverius B.V.,1
+355,ESCOM Ltd. - Haskovo,1
